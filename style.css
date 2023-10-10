@@ -1,0 +1,20 @@
+body {
+	background-color: lightblue;
+}
+
+form{
+	text-align: center;
+	padding: 50px;
+	border: 10 solidb black;
+}
+
+input{
+	width: 250px;
+	height: 50px;
+	border: 2 solid black;
+	border-radius: 20px;
+	text-align: center;
+}
+ul{
+	list-style: none;
+}
